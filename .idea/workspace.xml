@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16d11116-34dc-4115-b3b9-ab8d29c188ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/ComponentContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/ComponentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/ComponentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/ComponentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AdminCardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AdminProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AdminStatisticController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AdminTerminalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AdminTransactionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ProfileCardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ProfileTranController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/Terminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/EnumStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/EnumsRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/EnumsTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/CardRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/ProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/TerminalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/TransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ProfileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TerminalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TransactionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MD5Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2YwRbDZcHjx6pJzfN00YZtZv6SW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/zagruzki/postgresql-42.7.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Atto\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Atto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16d11116-34dc-4115-b3b9-ab8d29c188ae" name="Changes" comment="" />
+      <created>1701434725130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701434725130</updated>
+      <workItem from="1701434726702" duration="8534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
