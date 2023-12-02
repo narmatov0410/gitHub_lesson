@@ -30,6 +30,7 @@ public class ProfileTranController {
           }
         }
     }
+
     public void transactionList() {
         List<Transaction> transactionList = ComponentRepository.transactionRepository.getTransactionList();
         System.out.println("List Transaction: ");

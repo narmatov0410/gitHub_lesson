@@ -59,6 +59,7 @@ public class ProfileCardController {
         }
         System.out.print(" Select : ");
     }
+
     public void addProfileCard() {
         System.out.print(" Card Number: ");
         String number = ComponentContainer.scanStr.nextLine();
